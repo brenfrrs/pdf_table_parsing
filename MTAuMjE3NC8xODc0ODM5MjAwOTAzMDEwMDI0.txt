@@ -1,0 +1,1149 @@
+Determining the number of herbivores a land base can
+sustain presents a persistent challenge particularly in multi-
+species grazing systems [1-5]. This sustained stocking rate is
+commonly termed carrying capacity [6,7] and is used as a
+metric to balance ecological, economic, and aesthetic con-
+cerns [8-11]. In practice, carrying capacity is rarely meas-
+ured [12] and initial estimates are progressively adjusted in
+adaptive management programs. In addition, the term “‘carry-
+ing capacity” is used in numerous ways, adding to the com-
+plexity of the problem [6,13].
+Determining the number of herbivores a land base can
+sustain presents a persistent challenge particularly in multi-
+species grazing systems [1-5]. This sustained stocking rate is
+commonly termed carrying capacity [6,7] and is used as a
+metric to balance ecological, economic, and aesthetic con-
+cerns [8-11]. In practice, carrying capacity is rarely meas-
+ured [12] and initial estimates are progressively adjusted in
+adaptive management programs. In addition, the term “‘carry-
+ing capacity” is used in numerous ways, adding to the com-
+plexity of the problem [6,13].
+Determining the number of herbivores a land base can
+sustain presents a persistent challenge particularly in multi-
+species grazing systems [1-5]. This sustained stocking rate is
+commonly termed carrying capacity [6,7] and is used as a
+metric to balance ecological, economic, and aesthetic con-
+cerns [8-11]. In practice, carrying capacity is rarely meas-
+ured [12] and initial estimates are progressively adjusted in
+adaptive management programs. In addition, the term “‘carry-
+ing capacity” is used in numerous ways, adding to the com-
+plexity of the problem [6,13].
+Determining the number of herbivores a land base can
+sustain presents a persistent challenge particularly in multi-
+species grazing systems [1-5]. This sustained stocking rate is
+commonly termed carrying capacity [6,7] and is used as a
+metric to balance ecological, economic, and aesthetic con-
+cerns [8-11]. In practice, carrying capacity is rarely meas-
+ured [12] and initial estimates are progressively adjusted in
+adaptive management programs. In addition, the term “‘carry-
+ing capacity” is used in numerous ways, adding to the com-
+plexity of the problem [6,13].
+Solutions are constrained first by plant removal rates and
+safe-use factors (SUF) where forage removal by native ungu-
+lates is commonly set between 35-50% of annual growth to
+allow for variation in forage availability [18-20]. The forage
+reserve (i.e., the proportion of the forage remaining) may be
+used to provide a buffer against stochastic environmental
+conditions and prevent degradation of vegetation during
+years with unfavorable growing conditions [21]. In strongly
+seasonal environments, another hedge provided by the forage
+reserve is sufficient opportunity for diet selection to meet
+seasonal quality thresholds. Although range scientists and
+managers frequently use various vegetative measures of
+range condition to ensure long-term sustainability [22,23],
+criteria for evaluating appropriate stocking levels seldom
+include measures related to the animals present in the system
+[24.25].
+Solutions are constrained first by plant removal rates and
+safe-use factors (SUF) where forage removal by native ungu-
+lates is commonly set between 35-50% of annual growth to
+allow for variation in forage availability [18-20]. The forage
+reserve (i.e., the proportion of the forage remaining) may be
+used to provide a buffer against stochastic environmental
+conditions and prevent degradation of vegetation during
+years with unfavorable growing conditions [21]. In strongly
+seasonal environments, another hedge provided by the forage
+reserve is sufficient opportunity for diet selection to meet
+seasonal quality thresholds. Although range scientists and
+managers frequently use various vegetative measures of
+range condition to ensure long-term sustainability [22,23],
+criteria for evaluating appropriate stocking levels seldom
+include measures related to the animals present in the system
+[24.25].
+Solutions are constrained first by plant removal rates and
+safe-use factors (SUF) where forage removal by native ungu-
+lates is commonly set between 35-50% of annual growth to
+allow for variation in forage availability [18-20]. The forage
+reserve (i.e., the proportion of the forage remaining) may be
+used to provide a buffer against stochastic environmental
+conditions and prevent degradation of vegetation during
+years with unfavorable growing conditions [21]. In strongly
+seasonal environments, another hedge provided by the forage
+reserve is sufficient opportunity for diet selection to meet
+seasonal quality thresholds. Although range scientists and
+managers frequently use various vegetative measures of
+range condition to ensure long-term sustainability [22,23],
+criteria for evaluating appropriate stocking levels seldom
+include measures related to the animals present in the system
+[24.25].
+Solutions are constrained first by plant removal rates and
+safe-use factors (SUF) where forage removal by native ungu-
+lates is commonly set between 35-50% of annual growth to
+allow for variation in forage availability [18-20]. The forage
+reserve (i.e., the proportion of the forage remaining) may be
+used to provide a buffer against stochastic environmental
+conditions and prevent degradation of vegetation during
+years with unfavorable growing conditions [21]. In strongly
+seasonal environments, another hedge provided by the forage
+reserve is sufficient opportunity for diet selection to meet
+seasonal quality thresholds. Although range scientists and
+managers frequently use various vegetative measures of
+range condition to ensure long-term sustainability [22,23],
+criteria for evaluating appropriate stocking levels seldom
+include measures related to the animals present in the system
+[24.25].
+Abstract: Elk Island National Park in western Canada provides an ideal case study for an economic carrying capacity es-
+timate because it supports high density of four species of ungulates (1 1/km/), lacks large predators, and is enclosed by a
+2.1-meter mesh fence. This high density of ungulates has created persistent management challenges by altering vegetation
+structure and community composition. Using linear programming, we explored optimal allocation of forage resources for
+bison (Bison bison bison), moose (Alces andersoni), wapiti (Cervus elaphus manitobensis) and deer (Odocoileus virgini-
+anus and O. hemionus) to maximize ungulate biomass and numbers, when constrained by use of the major forage classes
+and minimum viable populations (MVP) of those ungulate species that do not cross the boundary fence (bison and wapiti).
+Maximum numbers of animals were achieved by a stocking combination dominated by deer and bison, whereas maximum
+biomass was attained when bison and moose were abundant but deer were absent. Wapiti remained at MVP during all so-
+lutions. Optimal solutions consistent with current ungulate densities were associated with 7 to 11% forage removal. This
+is less than normally assumed for sustainable forage use, and may reflect the need to account for other biotic and abiotic
+losses to forage in carrying capacity models for which ungulate densities can be constrained by availability of a preferred
+forage class (e.g., grass) as well as forage quality. This research extends the conventional animal-unit concept to multi-
+species systems and provides templates based on forage biomass allocation for resource managers facing similar problems
+of joint stocking in different environments.
+
+ 
+Abstract: Elk Island National Park in western Canada provides an ideal case study for an economic carrying capacity es-
+timate because it supports high density of four species of ungulates (1 1/km/), lacks large predators, and is enclosed by a
+2.1-meter mesh fence. This high density of ungulates has created persistent management challenges by altering vegetation
+structure and community composition. Using linear programming, we explored optimal allocation of forage resources for
+bison (Bison bison bison), moose (Alces andersoni), wapiti (Cervus elaphus manitobensis) and deer (Odocoileus virgini-
+anus and O. hemionus) to maximize ungulate biomass and numbers, when constrained by use of the major forage classes
+and minimum viable populations (MVP) of those ungulate species that do not cross the boundary fence (bison and wapiti).
+Maximum numbers of animals were achieved by a stocking combination dominated by deer and bison, whereas maximum
+biomass was attained when bison and moose were abundant but deer were absent. Wapiti remained at MVP during all so-
+lutions. Optimal solutions consistent with current ungulate densities were associated with 7 to 11% forage removal. This
+is less than normally assumed for sustainable forage use, and may reflect the need to account for other biotic and abiotic
+losses to forage in carrying capacity models for which ungulate densities can be constrained by availability of a preferred
+forage class (e.g., grass) as well as forage quality. This research extends the conventional animal-unit concept to multi-
+species systems and provides templates based on forage biomass allocation for resource managers facing similar problems
+of joint stocking in different environments.
+
+ 
+Abstract: Elk Island National Park in western Canada provides an ideal case study for an economic carrying capacity es-
+timate because it supports high density of four species of ungulates (1 1/km/), lacks large predators, and is enclosed by a
+2.1-meter mesh fence. This high density of ungulates has created persistent management challenges by altering vegetation
+structure and community composition. Using linear programming, we explored optimal allocation of forage resources for
+bison (Bison bison bison), moose (Alces andersoni), wapiti (Cervus elaphus manitobensis) and deer (Odocoileus virgini-
+anus and O. hemionus) to maximize ungulate biomass and numbers, when constrained by use of the major forage classes
+and minimum viable populations (MVP) of those ungulate species that do not cross the boundary fence (bison and wapiti).
+Maximum numbers of animals were achieved by a stocking combination dominated by deer and bison, whereas maximum
+biomass was attained when bison and moose were abundant but deer were absent. Wapiti remained at MVP during all so-
+lutions. Optimal solutions consistent with current ungulate densities were associated with 7 to 11% forage removal. This
+is less than normally assumed for sustainable forage use, and may reflect the need to account for other biotic and abiotic
+losses to forage in carrying capacity models for which ungulate densities can be constrained by availability of a preferred
+forage class (e.g., grass) as well as forage quality. This research extends the conventional animal-unit concept to multi-
+species systems and provides templates based on forage biomass allocation for resource managers facing similar problems
+of joint stocking in different environments.
+
+ 
+Abstract: Elk Island National Park in western Canada provides an ideal case study for an economic carrying capacity es-
+timate because it supports high density of four species of ungulates (1 1/km/), lacks large predators, and is enclosed by a
+2.1-meter mesh fence. This high density of ungulates has created persistent management challenges by altering vegetation
+structure and community composition. Using linear programming, we explored optimal allocation of forage resources for
+bison (Bison bison bison), moose (Alces andersoni), wapiti (Cervus elaphus manitobensis) and deer (Odocoileus virgini-
+anus and O. hemionus) to maximize ungulate biomass and numbers, when constrained by use of the major forage classes
+and minimum viable populations (MVP) of those ungulate species that do not cross the boundary fence (bison and wapiti).
+Maximum numbers of animals were achieved by a stocking combination dominated by deer and bison, whereas maximum
+biomass was attained when bison and moose were abundant but deer were absent. Wapiti remained at MVP during all so-
+lutions. Optimal solutions consistent with current ungulate densities were associated with 7 to 11% forage removal. This
+is less than normally assumed for sustainable forage use, and may reflect the need to account for other biotic and abiotic
+losses to forage in carrying capacity models for which ungulate densities can be constrained by availability of a preferred
+forage class (e.g., grass) as well as forage quality. This research extends the conventional animal-unit concept to multi-
+species systems and provides templates based on forage biomass allocation for resource managers facing similar problems
+of joint stocking in different environments.
+
+ 
+Ecological carrying capacity (K) is usually defined as the
+maximum number of animals a defined area can support in
+relation to available resources [14], where K is primarily
+limited by forage [6,7]. Population biologists define ecologi-
+cal K as an equilibrium at which population growth rate
+equals zero [6,15]. This differs from economic K, which
+prescribes stocking rates in relation to available vegetation
+Ecological carrying capacity (K) is usually defined as the
+maximum number of animals a defined area can support in
+relation to available resources [14], where K is primarily
+limited by forage [6,7]. Population biologists define ecologi-
+cal K as an equilibrium at which population growth rate
+equals zero [6,15]. This differs from economic K, which
+prescribes stocking rates in relation to available vegetation
+Ecological carrying capacity (K) is usually defined as the
+maximum number of animals a defined area can support in
+relation to available resources [14], where K is primarily
+limited by forage [6,7]. Population biologists define ecologi-
+cal K as an equilibrium at which population growth rate
+equals zero [6,15]. This differs from economic K, which
+prescribes stocking rates in relation to available vegetation
+Ecological carrying capacity (K) is usually defined as the
+maximum number of animals a defined area can support in
+relation to available resources [14], where K is primarily
+limited by forage [6,7]. Population biologists define ecologi-
+cal K as an equilibrium at which population growth rate
+equals zero [6,15]. This differs from economic K, which
+prescribes stocking rates in relation to available vegetation
+Reliable estimates of the daily dry matter intake by ungu-
+lates are central to assessing carrying capacity and determin-
+ing animal unit equivalents [22,26]. In a multi-species sys-
+tem, dry matter intake varies among species, but can be gen-
+eralized from their digestive capacity and body size [27].
+Reliable estimates of the daily dry matter intake by ungu-
+lates are central to assessing carrying capacity and determin-
+ing animal unit equivalents [22,26]. In a multi-species sys-
+tem, dry matter intake varies among species, but can be gen-
+eralized from their digestive capacity and body size [27].
+Reliable estimates of the daily dry matter intake by ungu-
+lates are central to assessing carrying capacity and determin-
+ing animal unit equivalents [22,26]. In a multi-species sys-
+tem, dry matter intake varies among species, but can be gen-
+eralized from their digestive capacity and body size [27].
+Reliable estimates of the daily dry matter intake by ungu-
+lates are central to assessing carrying capacity and determin-
+ing animal unit equivalents [22,26]. In a multi-species sys-
+tem, dry matter intake varies among species, but can be gen-
+eralized from their digestive capacity and body size [27].
+‘Renewable Resources, University of Alberta, Edmonton, Alberta, T6G 2H1, Canada
+‘Renewable Resources, University of Alberta, Edmonton, Alberta, T6G 2H1, Canada
+‘Renewable Resources, University of Alberta, Edmonton, Alberta, T6G 2H1, Canada
+‘Renewable Resources, University of Alberta, Edmonton, Alberta, T6G 2H1, Canada
+*Address correspondence to this author at the Ministry of Environment,
+Wildlife Science Section, P.O. Box 9338 Stn Prov Govt, Victoria, BC, V8W
+9M1, Canada; Tel: +1 2503875842; Fax: +1 2503569145;
+
+EBuemail- cerald kn7zvk@onv he ca
+*Address correspondence to this author at the Ministry of Environment,
+Wildlife Science Section, P.O. Box 9338 Stn Prov Govt, Victoria, BC, V8W
+9M1, Canada; Tel: +1 2503875842; Fax: +1 2503569145;
+
+EBuemail- cerald kn7zvk@onv he ca
+*Address correspondence to this author at the Ministry of Environment,
+Wildlife Science Section, P.O. Box 9338 Stn Prov Govt, Victoria, BC, V8W
+9M1, Canada; Tel: +1 2503875842; Fax: +1 2503569145;
+
+EBuemail- cerald kn7zvk@onv he ca
+*Address correspondence to this author at the Ministry of Environment,
+Wildlife Science Section, P.O. Box 9338 Stn Prov Govt, Victoria, BC, V8W
+9M1, Canada; Tel: +1 2503875842; Fax: +1 2503569145;
+
+EBuemail- cerald kn7zvk@onv he ca
+Gerald W. Kuzyk*", NL. Cool’, E.W. Bork’, Cc. Bampfylde**, A. Franke"! and R.J. H
+Gerald W. Kuzyk*", NL. Cool’, E.W. Bork’, Cc. Bampfylde**, A. Franke"! and R.J. H
+Gerald W. Kuzyk*", NL. Cool’, E.W. Bork’, Cc. Bampfylde**, A. Franke"! and R.J. H
+Gerald W. Kuzyk*", NL. Cool’, E.W. Bork’, Cc. Bampfylde**, A. Franke"! and R.J. H
+‘Canadian Circumpolar Institute, University of Alberta, 1-42 Pembina Hall,
+Edmonton, Alberta, T6G 2H8, Canada.
+‘Canadian Circumpolar Institute, University of Alberta, 1-42 Pembina Hall,
+Edmonton, Alberta, T6G 2H8, Canada.
+‘Canadian Circumpolar Institute, University of Alberta, 1-42 Pembina Hall,
+Edmonton, Alberta, T6G 2H8, Canada.
+‘Canadian Circumpolar Institute, University of Alberta, 1-42 Pembina Hall,
+Edmonton, Alberta, T6G 2H8, Canada.
+In contrast to seasonal livestock grazing, requirements
+for wild ungulates require forage to be characterized at the
+scale of an “animal-unit-year” as they remain present on the
+landscape over a full twelve-month period without supple-
+mentation. Furthermore, despite assigning a value of antici-
+pated forage removal for each ungulate species [22], forage
+specialization of wild ungulates and seasonal shifts in diet
+[35-37] preclude forage use estimates at the scale of the ani-
+mal-unit month. As such, monthly or seasonal diets and in-
+takes of wild ungulates are summed to annual totals. Lastly,
+In contrast to seasonal livestock grazing, requirements
+for wild ungulates require forage to be characterized at the
+scale of an “animal-unit-year” as they remain present on the
+landscape over a full twelve-month period without supple-
+mentation. Furthermore, despite assigning a value of antici-
+pated forage removal for each ungulate species [22], forage
+specialization of wild ungulates and seasonal shifts in diet
+[35-37] preclude forage use estimates at the scale of the ani-
+mal-unit month. As such, monthly or seasonal diets and in-
+takes of wild ungulates are summed to annual totals. Lastly,
+In contrast to seasonal livestock grazing, requirements
+for wild ungulates require forage to be characterized at the
+scale of an “animal-unit-year” as they remain present on the
+landscape over a full twelve-month period without supple-
+mentation. Furthermore, despite assigning a value of antici-
+pated forage removal for each ungulate species [22], forage
+specialization of wild ungulates and seasonal shifts in diet
+[35-37] preclude forage use estimates at the scale of the ani-
+mal-unit month. As such, monthly or seasonal diets and in-
+takes of wild ungulates are summed to annual totals. Lastly,
+In contrast to seasonal livestock grazing, requirements
+for wild ungulates require forage to be characterized at the
+scale of an “animal-unit-year” as they remain present on the
+landscape over a full twelve-month period without supple-
+mentation. Furthermore, despite assigning a value of antici-
+pated forage removal for each ungulate species [22], forage
+specialization of wild ungulates and seasonal shifts in diet
+[35-37] preclude forage use estimates at the scale of the ani-
+mal-unit month. As such, monthly or seasonal diets and in-
+takes of wild ungulates are summed to annual totals. Lastly,
+Elk Island National Park (EINP) is a small, enclosed and
+carefully monitored park (194 km’) in western Canada that
+provides an ideal opportunity to explore the concept of eco-
+nomic carrying capacity. The park supports four species of
+ungulates and is a relatively controlled environment due to
+the lack of predators and complete enclosure of the park by a
+2.1-m page wire fence. Because of the lack of predators and
+the presence of the fence, resource managers are forced to
+manage ungulate numbers relative to the available vegeta-
+tion. The fence contains plains bison, wood bison and wapiti,
+but allows movement of moose, white-tailed deer and mule
+deer [43]. The ungulate guild within the park approaches the
+biomass and productivity of multi-species grazing systems of
+East Africa [44]. Because the density of ungulates is high
+(11/km’), the range area is small, and the movements of un-
+gulates are relatively fine-scale [45], carrying capacity calcu-
+lations must be based on forage allocation.
+Elk Island National Park (EINP) is a small, enclosed and
+carefully monitored park (194 km’) in western Canada that
+provides an ideal opportunity to explore the concept of eco-
+nomic carrying capacity. The park supports four species of
+ungulates and is a relatively controlled environment due to
+the lack of predators and complete enclosure of the park by a
+2.1-m page wire fence. Because of the lack of predators and
+the presence of the fence, resource managers are forced to
+manage ungulate numbers relative to the available vegeta-
+tion. The fence contains plains bison, wood bison and wapiti,
+but allows movement of moose, white-tailed deer and mule
+deer [43]. The ungulate guild within the park approaches the
+biomass and productivity of multi-species grazing systems of
+East Africa [44]. Because the density of ungulates is high
+(11/km’), the range area is small, and the movements of un-
+gulates are relatively fine-scale [45], carrying capacity calcu-
+lations must be based on forage allocation.
+Elk Island National Park (EINP) is a small, enclosed and
+carefully monitored park (194 km’) in western Canada that
+provides an ideal opportunity to explore the concept of eco-
+nomic carrying capacity. The park supports four species of
+ungulates and is a relatively controlled environment due to
+the lack of predators and complete enclosure of the park by a
+2.1-m page wire fence. Because of the lack of predators and
+the presence of the fence, resource managers are forced to
+manage ungulate numbers relative to the available vegeta-
+tion. The fence contains plains bison, wood bison and wapiti,
+but allows movement of moose, white-tailed deer and mule
+deer [43]. The ungulate guild within the park approaches the
+biomass and productivity of multi-species grazing systems of
+East Africa [44]. Because the density of ungulates is high
+(11/km’), the range area is small, and the movements of un-
+gulates are relatively fine-scale [45], carrying capacity calcu-
+lations must be based on forage allocation.
+Elk Island National Park (EINP) is a small, enclosed and
+carefully monitored park (194 km’) in western Canada that
+provides an ideal opportunity to explore the concept of eco-
+nomic carrying capacity. The park supports four species of
+ungulates and is a relatively controlled environment due to
+the lack of predators and complete enclosure of the park by a
+2.1-m page wire fence. Because of the lack of predators and
+the presence of the fence, resource managers are forced to
+manage ungulate numbers relative to the available vegeta-
+tion. The fence contains plains bison, wood bison and wapiti,
+but allows movement of moose, white-tailed deer and mule
+deer [43]. The ungulate guild within the park approaches the
+biomass and productivity of multi-species grazing systems of
+East Africa [44]. Because the density of ungulates is high
+(11/km’), the range area is small, and the movements of un-
+gulates are relatively fine-scale [45], carrying capacity calcu-
+lations must be based on forage allocation.
+Forage demand can be measured as the amount of forage
+consumed per day and is often standardized as animal-units
+[2]. One animal-unit is usually considered to be the body
+mass equivalent of one domestic cow either with a calf less
+than 6 months old (454 kg) or without a calf. One animal
+unit is assumed to require 26 kg of forage (based on air-dried
+weight) per day [2,22]. One animal-unit month is defined as
+the sum of the daily requirements accumulated over one
+month or approximately 780 kg of forage [32]. Perhaps be-
+cause of its simplicity, the animal-unit concept has been
+widely adopted by range managers concerned with grazing
+livestock that are either similar in dietary preferences or
+graze pastures with little opportunity for selection [2,33].
+However, there are difficulties extending the animal-unit
+concept to wild ungulates in heterogeneous environments
+[22,34].
+Forage demand can be measured as the amount of forage
+consumed per day and is often standardized as animal-units
+[2]. One animal-unit is usually considered to be the body
+mass equivalent of one domestic cow either with a calf less
+than 6 months old (454 kg) or without a calf. One animal
+unit is assumed to require 26 kg of forage (based on air-dried
+weight) per day [2,22]. One animal-unit month is defined as
+the sum of the daily requirements accumulated over one
+month or approximately 780 kg of forage [32]. Perhaps be-
+cause of its simplicity, the animal-unit concept has been
+widely adopted by range managers concerned with grazing
+livestock that are either similar in dietary preferences or
+graze pastures with little opportunity for selection [2,33].
+However, there are difficulties extending the animal-unit
+concept to wild ungulates in heterogeneous environments
+[22,34].
+Forage demand can be measured as the amount of forage
+consumed per day and is often standardized as animal-units
+[2]. One animal-unit is usually considered to be the body
+mass equivalent of one domestic cow either with a calf less
+than 6 months old (454 kg) or without a calf. One animal
+unit is assumed to require 26 kg of forage (based on air-dried
+weight) per day [2,22]. One animal-unit month is defined as
+the sum of the daily requirements accumulated over one
+month or approximately 780 kg of forage [32]. Perhaps be-
+cause of its simplicity, the animal-unit concept has been
+widely adopted by range managers concerned with grazing
+livestock that are either similar in dietary preferences or
+graze pastures with little opportunity for selection [2,33].
+However, there are difficulties extending the animal-unit
+concept to wild ungulates in heterogeneous environments
+[22,34].
+Forage demand can be measured as the amount of forage
+consumed per day and is often standardized as animal-units
+[2]. One animal-unit is usually considered to be the body
+mass equivalent of one domestic cow either with a calf less
+than 6 months old (454 kg) or without a calf. One animal
+unit is assumed to require 26 kg of forage (based on air-dried
+weight) per day [2,22]. One animal-unit month is defined as
+the sum of the daily requirements accumulated over one
+month or approximately 780 kg of forage [32]. Perhaps be-
+cause of its simplicity, the animal-unit concept has been
+widely adopted by range managers concerned with grazing
+livestock that are either similar in dietary preferences or
+graze pastures with little opportunity for selection [2,33].
+However, there are difficulties extending the animal-unit
+concept to wild ungulates in heterogeneous environments
+[22,34].
+Linear programming is generally used to determine an
+optimal combination given a set of decision variables that
+are subject to one or more constraints, and has been used
+routinely for solving resource allocation problems [46,47].
+Others have used linear programming in range management
+[20,48,49] as well as for other wildlife and plant-related
+questions with varying degrees of success. For example,
+Hastings et al. [50] used linear programming to determine
+the optimal age or stage class to control invasive plant spe-
+cies under the constraints of time and financial budget. Be-
+lovsky [51] used linear programming to examine optimal
+summer diet of moose. Because plants vary in nutrient qual-
+Linear programming is generally used to determine an
+optimal combination given a set of decision variables that
+are subject to one or more constraints, and has been used
+routinely for solving resource allocation problems [46,47].
+Others have used linear programming in range management
+[20,48,49] as well as for other wildlife and plant-related
+questions with varying degrees of success. For example,
+Hastings et al. [50] used linear programming to determine
+the optimal age or stage class to control invasive plant spe-
+cies under the constraints of time and financial budget. Be-
+lovsky [51] used linear programming to examine optimal
+summer diet of moose. Because plants vary in nutrient qual-
+Linear programming is generally used to determine an
+optimal combination given a set of decision variables that
+are subject to one or more constraints, and has been used
+routinely for solving resource allocation problems [46,47].
+Others have used linear programming in range management
+[20,48,49] as well as for other wildlife and plant-related
+questions with varying degrees of success. For example,
+Hastings et al. [50] used linear programming to determine
+the optimal age or stage class to control invasive plant spe-
+cies under the constraints of time and financial budget. Be-
+lovsky [51] used linear programming to examine optimal
+summer diet of moose. Because plants vary in nutrient qual-
+Linear programming is generally used to determine an
+optimal combination given a set of decision variables that
+are subject to one or more constraints, and has been used
+routinely for solving resource allocation problems [46,47].
+Others have used linear programming in range management
+[20,48,49] as well as for other wildlife and plant-related
+questions with varying degrees of success. For example,
+Hastings et al. [50] used linear programming to determine
+the optimal age or stage class to control invasive plant spe-
+cies under the constraints of time and financial budget. Be-
+lovsky [51] used linear programming to examine optimal
+summer diet of moose. Because plants vary in nutrient qual-
+Large ungulates are generally bulk feeders that consume
+large amounts of low quality grass [28], whereas smaller
+ungulates are concentrate selectors and consume smaller
+quantities of highly digestible forage such as forbs or browse
+[29,30]. Medium-sized ungulates are often intermediate
+
+feeders and consume varying proportions of shrubs and grass
+[31].
+Large ungulates are generally bulk feeders that consume
+large amounts of low quality grass [28], whereas smaller
+ungulates are concentrate selectors and consume smaller
+quantities of highly digestible forage such as forbs or browse
+[29,30]. Medium-sized ungulates are often intermediate
+
+feeders and consume varying proportions of shrubs and grass
+[31].
+Large ungulates are generally bulk feeders that consume
+large amounts of low quality grass [28], whereas smaller
+ungulates are concentrate selectors and consume smaller
+quantities of highly digestible forage such as forbs or browse
+[29,30]. Medium-sized ungulates are often intermediate
+
+feeders and consume varying proportions of shrubs and grass
+[31].
+Large ungulates are generally bulk feeders that consume
+large amounts of low quality grass [28], whereas smaller
+ungulates are concentrate selectors and consume smaller
+quantities of highly digestible forage such as forbs or browse
+[29,30]. Medium-sized ungulates are often intermediate
+
+feeders and consume varying proportions of shrubs and grass
+[31].
+Fig. (1). Aggregate forage supply and demand factors for ungulates in fall of 2006 in Elk Island National Park, Alberta.
+Fig. (1). Aggregate forage supply and demand factors for ungulates in fall of 2006 in Elk Island National Park, Alberta.
+Fig. (1). Aggregate forage supply and demand factors for ungulates in fall of 2006 in Elk Island National Park, Alberta.
+despite the fact that most wild ungulates co-exist in multi-
+species systems [38-41], there is limited information associ-
+
+ated with concurrent daily intakes of sympatric species
+[22.42].
+despite the fact that most wild ungulates co-exist in multi-
+species systems [38-41], there is limited information associ-
+
+ated with concurrent daily intakes of sympatric species
+[22.42].
+despite the fact that most wild ungulates co-exist in multi-
+species systems [38-41], there is limited information associ-
+
+ated with concurrent daily intakes of sympatric species
+[22.42].
+despite the fact that most wild ungulates co-exist in multi-
+species systems [38-41], there is limited information associ-
+
+ated with concurrent daily intakes of sympatric species
+[22.42].
+The objective of our research was to develop a protocol
+and a template for an annual estimate of economic carrying
+capacity for bison, moose, wapiti, and deer in the Main Park
+(134 km’) of EINP (Fig. 1). Linear programming was used to
+calculate optimal solutions for the maximum number and the
+maximum biomass of ungulates given pre-set management
+constraints (sustainable use of park vegetation and minimum
+viable populations of bison and wapiti). An animal-unit-year
+approach was used by matching annual forage supply (kg/ha
+of grass, forbs, shrubs across four primary habitats) with the
+corresponding ungulate demand estimated from seasonal
+diets and intakes summed annually (kg forage per ungulate
+per year). Feasible solutions require that resources last for
+one full year, so solutions with seasonal shortfalls are ex-
+cluded. This approach applies the principle of economic car-
+rying capacity to evaluate an application for resource man-
+agement and is not validated against forage utilization esti-
+mates.
+The objective of our research was to develop a protocol
+and a template for an annual estimate of economic carrying
+capacity for bison, moose, wapiti, and deer in the Main Park
+(134 km’) of EINP (Fig. 1). Linear programming was used to
+calculate optimal solutions for the maximum number and the
+maximum biomass of ungulates given pre-set management
+constraints (sustainable use of park vegetation and minimum
+viable populations of bison and wapiti). An animal-unit-year
+approach was used by matching annual forage supply (kg/ha
+of grass, forbs, shrubs across four primary habitats) with the
+corresponding ungulate demand estimated from seasonal
+diets and intakes summed annually (kg forage per ungulate
+per year). Feasible solutions require that resources last for
+one full year, so solutions with seasonal shortfalls are ex-
+cluded. This approach applies the principle of economic car-
+rying capacity to evaluate an application for resource man-
+agement and is not validated against forage utilization esti-
+mates.
+The objective of our research was to develop a protocol
+and a template for an annual estimate of economic carrying
+capacity for bison, moose, wapiti, and deer in the Main Park
+(134 km’) of EINP (Fig. 1). Linear programming was used to
+calculate optimal solutions for the maximum number and the
+maximum biomass of ungulates given pre-set management
+constraints (sustainable use of park vegetation and minimum
+viable populations of bison and wapiti). An animal-unit-year
+approach was used by matching annual forage supply (kg/ha
+of grass, forbs, shrubs across four primary habitats) with the
+corresponding ungulate demand estimated from seasonal
+diets and intakes summed annually (kg forage per ungulate
+per year). Feasible solutions require that resources last for
+one full year, so solutions with seasonal shortfalls are ex-
+cluded. This approach applies the principle of economic car-
+rying capacity to evaluate an application for resource man-
+agement and is not validated against forage utilization esti-
+mates.
+The objective of our research was to develop a protocol
+and a template for an annual estimate of economic carrying
+capacity for bison, moose, wapiti, and deer in the Main Park
+(134 km’) of EINP (Fig. 1). Linear programming was used to
+calculate optimal solutions for the maximum number and the
+maximum biomass of ungulates given pre-set management
+constraints (sustainable use of park vegetation and minimum
+viable populations of bison and wapiti). An animal-unit-year
+approach was used by matching annual forage supply (kg/ha
+of grass, forbs, shrubs across four primary habitats) with the
+corresponding ungulate demand estimated from seasonal
+diets and intakes summed annually (kg forage per ungulate
+per year). Feasible solutions require that resources last for
+one full year, so solutions with seasonal shortfalls are ex-
+cluded. This approach applies the principle of economic car-
+rying capacity to evaluate an application for resource man-
+agement and is not validated against forage utilization esti-
+mates.
+initial input variables. Therefore, given any proportion of
+total annual forage used, an estimate of the annual forage
+supply, an estimate of the total ungulate demand, and an ap-
+propriate model structure, the optimal combination of bison,
+moose, wapiti and deer in biomass, abundance or other
+measure of value can be calculated. Finally, known densities
+of ungulates in the park (December 2006) were compared to
+the optimal stocking solutions reported at each level (total
+annual forage used) tested. These solutions can be viewed as
+initial estimates of economic carrying capacity for the ungu-
+late guild and provide insights and a starting point for deter-
+mining economic carrying capacity and resource manage-
+ment strategies.
+initial input variables. Therefore, given any proportion of
+total annual forage used, an estimate of the annual forage
+supply, an estimate of the total ungulate demand, and an ap-
+propriate model structure, the optimal combination of bison,
+moose, wapiti and deer in biomass, abundance or other
+measure of value can be calculated. Finally, known densities
+of ungulates in the park (December 2006) were compared to
+the optimal stocking solutions reported at each level (total
+annual forage used) tested. These solutions can be viewed as
+initial estimates of economic carrying capacity for the ungu-
+late guild and provide insights and a starting point for deter-
+mining economic carrying capacity and resource manage-
+ment strategies.
+initial input variables. Therefore, given any proportion of
+total annual forage used, an estimate of the annual forage
+supply, an estimate of the total ungulate demand, and an ap-
+propriate model structure, the optimal combination of bison,
+moose, wapiti and deer in biomass, abundance or other
+measure of value can be calculated. Finally, known densities
+of ungulates in the park (December 2006) were compared to
+the optimal stocking solutions reported at each level (total
+annual forage used) tested. These solutions can be viewed as
+initial estimates of economic carrying capacity for the ungu-
+late guild and provide insights and a starting point for deter-
+mining economic carrying capacity and resource manage-
+ment strategies.
+initial input variables. Therefore, given any proportion of
+total annual forage used, an estimate of the annual forage
+supply, an estimate of the total ungulate demand, and an ap-
+propriate model structure, the optimal combination of bison,
+moose, wapiti and deer in biomass, abundance or other
+measure of value can be calculated. Finally, known densities
+of ungulates in the park (December 2006) were compared to
+the optimal stocking solutions reported at each level (total
+annual forage used) tested. These solutions can be viewed as
+initial estimates of economic carrying capacity for the ungu-
+late guild and provide insights and a starting point for deter-
+mining economic carrying capacity and resource manage-
+ment strategies.
+The Main Park (hereafter — Park) of EINP was used to
+allow comparison with the similar work done in the same
+area [44]. EINP is located in the Beaver Hills approximately
+40 km east of Edmonton, Alberta, Canada (53° 36' N and
+112° 51' W) (Fig. 2). The park is part of the Cooking Lake
+moraine at elevations 30-60 m above surrounding areas and
+has several shallow lakes. The park is surrounded mostly by
+agricultural land and has a four-lane highway (Highway 16)
+bisecting the park into the Main Park on the north side (134
+km’) and the Wood Bison Isolation Area (60 km’) on the
+south side. The climate is characterized by cold winters and
+warm summers with mean temperatures of -14°C in Decem-
+ber and 16°C in July. Annual rainfall precipitation is 496
+mm, of which 375 mm falls as rain and 121 mm as snow
+[53].
+The Main Park (hereafter — Park) of EINP was used to
+allow comparison with the similar work done in the same
+area [44]. EINP is located in the Beaver Hills approximately
+40 km east of Edmonton, Alberta, Canada (53° 36' N and
+112° 51' W) (Fig. 2). The park is part of the Cooking Lake
+moraine at elevations 30-60 m above surrounding areas and
+has several shallow lakes. The park is surrounded mostly by
+agricultural land and has a four-lane highway (Highway 16)
+bisecting the park into the Main Park on the north side (134
+km’) and the Wood Bison Isolation Area (60 km’) on the
+south side. The climate is characterized by cold winters and
+warm summers with mean temperatures of -14°C in Decem-
+ber and 16°C in July. Annual rainfall precipitation is 496
+mm, of which 375 mm falls as rain and 121 mm as snow
+[53].
+The Main Park (hereafter — Park) of EINP was used to
+allow comparison with the similar work done in the same
+area [44]. EINP is located in the Beaver Hills approximately
+40 km east of Edmonton, Alberta, Canada (53° 36' N and
+112° 51' W) (Fig. 2). The park is part of the Cooking Lake
+moraine at elevations 30-60 m above surrounding areas and
+has several shallow lakes. The park is surrounded mostly by
+agricultural land and has a four-lane highway (Highway 16)
+bisecting the park into the Main Park on the north side (134
+km’) and the Wood Bison Isolation Area (60 km’) on the
+south side. The climate is characterized by cold winters and
+warm summers with mean temperatures of -14°C in Decem-
+ber and 16°C in July. Annual rainfall precipitation is 496
+mm, of which 375 mm falls as rain and 121 mm as snow
+[53].
+The Main Park (hereafter — Park) of EINP was used to
+allow comparison with the similar work done in the same
+area [44]. EINP is located in the Beaver Hills approximately
+40 km east of Edmonton, Alberta, Canada (53° 36' N and
+112° 51' W) (Fig. 2). The park is part of the Cooking Lake
+moraine at elevations 30-60 m above surrounding areas and
+has several shallow lakes. The park is surrounded mostly by
+agricultural land and has a four-lane highway (Highway 16)
+bisecting the park into the Main Park on the north side (134
+km’) and the Wood Bison Isolation Area (60 km’) on the
+south side. The climate is characterized by cold winters and
+warm summers with mean temperatures of -14°C in Decem-
+ber and 16°C in July. Annual rainfall precipitation is 496
+mm, of which 375 mm falls as rain and 121 mm as snow
+[53].
+ity, it was assumed that a varied diet selection was required
+to produce an optimal diet of energy-rich but sodium-poor
+terrestrial plants, combined with energy-poor and sodium-
+rich aquatic plants. Belovsky [51] determined optimal diet
+was constrained by 1) energy, 2) sodium content, and 3) ru-
+men size. Hobbs [52] later contested Belovsky’s approach
+with specific criticisms of digestive constraints and ques-
+tioned the high success of predictability. Although Be-
+lovsky’s formulation has been criticized as inappropriate for
+testing the optimal foraging theory [51,52], this is not an
+indictment of linear programming as a method that has been
+used successfully to examine forage allocation across a guild
+of ungulates. Irby et al. [20] used linear programming to find
+solutions for the optimal allocation of available forage to
+multiple ungulates in Theodore Roosevelt National Park,
+North Dakota.
+ity, it was assumed that a varied diet selection was required
+to produce an optimal diet of energy-rich but sodium-poor
+terrestrial plants, combined with energy-poor and sodium-
+rich aquatic plants. Belovsky [51] determined optimal diet
+was constrained by 1) energy, 2) sodium content, and 3) ru-
+men size. Hobbs [52] later contested Belovsky’s approach
+with specific criticisms of digestive constraints and ques-
+tioned the high success of predictability. Although Be-
+lovsky’s formulation has been criticized as inappropriate for
+testing the optimal foraging theory [51,52], this is not an
+indictment of linear programming as a method that has been
+used successfully to examine forage allocation across a guild
+of ungulates. Irby et al. [20] used linear programming to find
+solutions for the optimal allocation of available forage to
+multiple ungulates in Theodore Roosevelt National Park,
+North Dakota.
+ity, it was assumed that a varied diet selection was required
+to produce an optimal diet of energy-rich but sodium-poor
+terrestrial plants, combined with energy-poor and sodium-
+rich aquatic plants. Belovsky [51] determined optimal diet
+was constrained by 1) energy, 2) sodium content, and 3) ru-
+men size. Hobbs [52] later contested Belovsky’s approach
+with specific criticisms of digestive constraints and ques-
+tioned the high success of predictability. Although Be-
+lovsky’s formulation has been criticized as inappropriate for
+testing the optimal foraging theory [51,52], this is not an
+indictment of linear programming as a method that has been
+used successfully to examine forage allocation across a guild
+of ungulates. Irby et al. [20] used linear programming to find
+solutions for the optimal allocation of available forage to
+multiple ungulates in Theodore Roosevelt National Park,
+North Dakota.
+ity, it was assumed that a varied diet selection was required
+to produce an optimal diet of energy-rich but sodium-poor
+terrestrial plants, combined with energy-poor and sodium-
+rich aquatic plants. Belovsky [51] determined optimal diet
+was constrained by 1) energy, 2) sodium content, and 3) ru-
+men size. Hobbs [52] later contested Belovsky’s approach
+with specific criticisms of digestive constraints and ques-
+tioned the high success of predictability. Although Be-
+lovsky’s formulation has been criticized as inappropriate for
+testing the optimal foraging theory [51,52], this is not an
+indictment of linear programming as a method that has been
+used successfully to examine forage allocation across a guild
+of ungulates. Irby et al. [20] used linear programming to find
+solutions for the optimal allocation of available forage to
+multiple ungulates in Theodore Roosevelt National Park,
+North Dakota.
+Moose, wapiti, white-tailed deer and mule deer occur
+throughout the park, but plains bison are restricted to the
+Main Park and wood bison to the Isolation Area. In Decem-
+ber 2006, 476 plains bison, 72 moose, 333 wapiti and 78
+deer inhabited the Main Park [54]. Minimum viable popula-
+tions (MVP) are maintained at pre-calving populations of
+175 bison and 350 wapiti [55]. Historically, wolves, grizzly
+Moose, wapiti, white-tailed deer and mule deer occur
+throughout the park, but plains bison are restricted to the
+Main Park and wood bison to the Isolation Area. In Decem-
+ber 2006, 476 plains bison, 72 moose, 333 wapiti and 78
+deer inhabited the Main Park [54]. Minimum viable popula-
+tions (MVP) are maintained at pre-calving populations of
+175 bison and 350 wapiti [55]. Historically, wolves, grizzly
+Moose, wapiti, white-tailed deer and mule deer occur
+throughout the park, but plains bison are restricted to the
+Main Park and wood bison to the Isolation Area. In Decem-
+ber 2006, 476 plains bison, 72 moose, 333 wapiti and 78
+deer inhabited the Main Park [54]. Minimum viable popula-
+tions (MVP) are maintained at pre-calving populations of
+175 bison and 350 wapiti [55]. Historically, wolves, grizzly
+Moose, wapiti, white-tailed deer and mule deer occur
+throughout the park, but plains bison are restricted to the
+Main Park and wood bison to the Isolation Area. In Decem-
+ber 2006, 476 plains bison, 72 moose, 333 wapiti and 78
+deer inhabited the Main Park [54]. Minimum viable popula-
+tions (MVP) are maintained at pre-calving populations of
+175 bison and 350 wapiti [55]. Historically, wolves, grizzly
+Linear programming as applied here requires that the
+proportion of total forage used annually be set as one of the
+Linear programming as applied here requires that the
+proportion of total forage used annually be set as one of the
+Linear programming as applied here requires that the
+proportion of total forage used annually be set as one of the
+Linear programming as applied here requires that the
+proportion of total forage used annually be set as one of the
+Fig. (2). Location of Elk Island National Park in central Alberta, Canada (Map courtesy of Parks Canada).
+Fig. (2). Location of Elk Island National Park in central Alberta, Canada (Map courtesy of Parks Canada).
+Fig. (2). Location of Elk Island National Park in central Alberta, Canada (Map courtesy of Parks Canada).
+EINP exists in a transitional zone between the prairie and
+boreal forest with vegetation classified as dry mixedwood
+boreal forest [21]. Trembling aspen (Populus tremuloides) is
+the dominant tree species and commonly co-exists with bal-
+sam poplar (Populus trichocarpa) or white birch (Betula
+papyrifera), with additional small areas of white spruce
+(Picea glauca) and black spruce (Picea mariana) in the
+northern part of the park. Shrub understories consist of
+beaked hazel (Corylus cornuta), dogwood (Cornus stolonif-
+era), chokecherry (Prunus virginiana), willow (Salix spp.),
+prickly rose (Rosa acicularis), raspberry (Rubus spp.) and
+other shrubs. Common native grasses are Agropyron spp.,
+Elymus innovatus and Oryzopsis asperifolia, with introduced
+species being Trifolium spp., Bromus spp. and Poa spp.,
+whereas wet meadows are dominated by Calamagrostis ca-
+nadensis and hydric Carex spp. often with an overstory of
+Salix spp. [58]. Vegetation composition is further described
+by Bork et al. [59,60] and Hood et al. [57].
+EINP exists in a transitional zone between the prairie and
+boreal forest with vegetation classified as dry mixedwood
+boreal forest [21]. Trembling aspen (Populus tremuloides) is
+the dominant tree species and commonly co-exists with bal-
+sam poplar (Populus trichocarpa) or white birch (Betula
+papyrifera), with additional small areas of white spruce
+(Picea glauca) and black spruce (Picea mariana) in the
+northern part of the park. Shrub understories consist of
+beaked hazel (Corylus cornuta), dogwood (Cornus stolonif-
+era), chokecherry (Prunus virginiana), willow (Salix spp.),
+prickly rose (Rosa acicularis), raspberry (Rubus spp.) and
+other shrubs. Common native grasses are Agropyron spp.,
+Elymus innovatus and Oryzopsis asperifolia, with introduced
+species being Trifolium spp., Bromus spp. and Poa spp.,
+whereas wet meadows are dominated by Calamagrostis ca-
+nadensis and hydric Carex spp. often with an overstory of
+Salix spp. [58]. Vegetation composition is further described
+by Bork et al. [59,60] and Hood et al. [57].
+EINP exists in a transitional zone between the prairie and
+boreal forest with vegetation classified as dry mixedwood
+boreal forest [21]. Trembling aspen (Populus tremuloides) is
+the dominant tree species and commonly co-exists with bal-
+sam poplar (Populus trichocarpa) or white birch (Betula
+papyrifera), with additional small areas of white spruce
+(Picea glauca) and black spruce (Picea mariana) in the
+northern part of the park. Shrub understories consist of
+beaked hazel (Corylus cornuta), dogwood (Cornus stolonif-
+era), chokecherry (Prunus virginiana), willow (Salix spp.),
+prickly rose (Rosa acicularis), raspberry (Rubus spp.) and
+other shrubs. Common native grasses are Agropyron spp.,
+Elymus innovatus and Oryzopsis asperifolia, with introduced
+species being Trifolium spp., Bromus spp. and Poa spp.,
+whereas wet meadows are dominated by Calamagrostis ca-
+nadensis and hydric Carex spp. often with an overstory of
+Salix spp. [58]. Vegetation composition is further described
+by Bork et al. [59,60] and Hood et al. [57].
+EINP exists in a transitional zone between the prairie and
+boreal forest with vegetation classified as dry mixedwood
+boreal forest [21]. Trembling aspen (Populus tremuloides) is
+the dominant tree species and commonly co-exists with bal-
+sam poplar (Populus trichocarpa) or white birch (Betula
+papyrifera), with additional small areas of white spruce
+(Picea glauca) and black spruce (Picea mariana) in the
+northern part of the park. Shrub understories consist of
+beaked hazel (Corylus cornuta), dogwood (Cornus stolonif-
+era), chokecherry (Prunus virginiana), willow (Salix spp.),
+prickly rose (Rosa acicularis), raspberry (Rubus spp.) and
+other shrubs. Common native grasses are Agropyron spp.,
+Elymus innovatus and Oryzopsis asperifolia, with introduced
+species being Trifolium spp., Bromus spp. and Poa spp.,
+whereas wet meadows are dominated by Calamagrostis ca-
+nadensis and hydric Carex spp. often with an overstory of
+Salix spp. [58]. Vegetation composition is further described
+by Bork et al. [59,60] and Hood et al. [57].
+Forage supply was estimated using annual production of
+three forage classes (grass, forbs, shrubs) across four habitat
+types, and subsequently matched with the annual dietary
+preferences and forage intake levels of each ungulate species
+[20,48,49]. A forage “production by habitat” availability
+matrix summarized forage biomass within each of the four
+major habitat types of EINP (Table 1). A Geographic Infor-
+mation System was used to calculate the area of each habitat
+type based on the 1995 Alberta Vegetation Inventory cover-
+age with refinements based on expert knowledge of the park
+(N. Cool, Parks Canada, Environmental Resource Conserva-
+tion, personal observation) to adjust for current differences
+in wetland coverage (Table 1). EINP does not have a com-
+plete inventory of grass, forb and shrub forage biomass
+(kg/ha) for each of the four predominant habitats. Conse-
+quently, published sources from EINP were used for grass
+biomass for two habitat categories [61], an unpublished data
+set from EINP for grass, forb and shrub values for aspen
+habitats [62], with the remaining values taken from data
+compiled across the dry and central mixedwood subregions
+of Alberta [21,63] (Table 1).
+Forage supply was estimated using annual production of
+three forage classes (grass, forbs, shrubs) across four habitat
+types, and subsequently matched with the annual dietary
+preferences and forage intake levels of each ungulate species
+[20,48,49]. A forage “production by habitat” availability
+matrix summarized forage biomass within each of the four
+major habitat types of EINP (Table 1). A Geographic Infor-
+mation System was used to calculate the area of each habitat
+type based on the 1995 Alberta Vegetation Inventory cover-
+age with refinements based on expert knowledge of the park
+(N. Cool, Parks Canada, Environmental Resource Conserva-
+tion, personal observation) to adjust for current differences
+in wetland coverage (Table 1). EINP does not have a com-
+plete inventory of grass, forb and shrub forage biomass
+(kg/ha) for each of the four predominant habitats. Conse-
+quently, published sources from EINP were used for grass
+biomass for two habitat categories [61], an unpublished data
+set from EINP for grass, forb and shrub values for aspen
+habitats [62], with the remaining values taken from data
+compiled across the dry and central mixedwood subregions
+of Alberta [21,63] (Table 1).
+Forage supply was estimated using annual production of
+three forage classes (grass, forbs, shrubs) across four habitat
+types, and subsequently matched with the annual dietary
+preferences and forage intake levels of each ungulate species
+[20,48,49]. A forage “production by habitat” availability
+matrix summarized forage biomass within each of the four
+major habitat types of EINP (Table 1). A Geographic Infor-
+mation System was used to calculate the area of each habitat
+type based on the 1995 Alberta Vegetation Inventory cover-
+age with refinements based on expert knowledge of the park
+(N. Cool, Parks Canada, Environmental Resource Conserva-
+tion, personal observation) to adjust for current differences
+in wetland coverage (Table 1). EINP does not have a com-
+plete inventory of grass, forb and shrub forage biomass
+(kg/ha) for each of the four predominant habitats. Conse-
+quently, published sources from EINP were used for grass
+biomass for two habitat categories [61], an unpublished data
+set from EINP for grass, forb and shrub values for aspen
+habitats [62], with the remaining values taken from data
+compiled across the dry and central mixedwood subregions
+of Alberta [21,63] (Table 1).
+Forage supply was estimated using annual production of
+three forage classes (grass, forbs, shrubs) across four habitat
+types, and subsequently matched with the annual dietary
+preferences and forage intake levels of each ungulate species
+[20,48,49]. A forage “production by habitat” availability
+matrix summarized forage biomass within each of the four
+major habitat types of EINP (Table 1). A Geographic Infor-
+mation System was used to calculate the area of each habitat
+type based on the 1995 Alberta Vegetation Inventory cover-
+age with refinements based on expert knowledge of the park
+(N. Cool, Parks Canada, Environmental Resource Conserva-
+tion, personal observation) to adjust for current differences
+in wetland coverage (Table 1). EINP does not have a com-
+plete inventory of grass, forb and shrub forage biomass
+(kg/ha) for each of the four predominant habitats. Conse-
+quently, published sources from EINP were used for grass
+biomass for two habitat categories [61], an unpublished data
+set from EINP for grass, forb and shrub values for aspen
+habitats [62], with the remaining values taken from data
+compiled across the dry and central mixedwood subregions
+of Alberta [21,63] (Table 1).
+For each ungulate species, forage intake (kg/d) and %
+forage class in the diet from the four seasons were summed
+to annual totals (Table 2). Data on seasonal diet proportions
+for all species and seasons specific to EINP were used [64-
+68] with the exception of the fall diet of bison [69], summer
+and fall diets of moose [66] and mule deer [69], which were
+taken from study areas in aspen parklands within 150 km of
+EINP (Table 2).
+For each ungulate species, forage intake (kg/d) and %
+forage class in the diet from the four seasons were summed
+to annual totals (Table 2). Data on seasonal diet proportions
+for all species and seasons specific to EINP were used [64-
+68] with the exception of the fall diet of bison [69], summer
+and fall diets of moose [66] and mule deer [69], which were
+taken from study areas in aspen parklands within 150 km of
+EINP (Table 2).
+For each ungulate species, forage intake (kg/d) and %
+forage class in the diet from the four seasons were summed
+to annual totals (Table 2). Data on seasonal diet proportions
+for all species and seasons specific to EINP were used [64-
+68] with the exception of the fall diet of bison [69], summer
+and fall diets of moose [66] and mule deer [69], which were
+taken from study areas in aspen parklands within 150 km of
+EINP (Table 2).
+For each ungulate species, forage intake (kg/d) and %
+forage class in the diet from the four seasons were summed
+to annual totals (Table 2). Data on seasonal diet proportions
+for all species and seasons specific to EINP were used [64-
+68] with the exception of the fall diet of bison [69], summer
+and fall diets of moose [66] and mule deer [69], which were
+taken from study areas in aspen parklands within 150 km of
+EINP (Table 2).
+Although the linear programming framework is determi-
+nistic, it can be used to solve complex resource allocation
+problems such as allocating a limited forage supply to a
+guild of ungulate species. We used the Microsoft Excel©
+linear programming “Add-In” (i.e., Microsoft Excel Solver
+©). The objective function dictated how the ungulate guild
+(i.e., bison, moose, wapiti, deer) could be optimized to
+achieve 1) maximum number of individuals (animals/ha) and
+2) maximum biomass (kg/ha) under the constraints of forage
+availability and minimum viable populations for species
+where this is a concern (i.e., bison and wapiti) (Fig. 1).
+Although the linear programming framework is determi-
+nistic, it can be used to solve complex resource allocation
+problems such as allocating a limited forage supply to a
+guild of ungulate species. We used the Microsoft Excel©
+linear programming “Add-In” (i.e., Microsoft Excel Solver
+©). The objective function dictated how the ungulate guild
+(i.e., bison, moose, wapiti, deer) could be optimized to
+achieve 1) maximum number of individuals (animals/ha) and
+2) maximum biomass (kg/ha) under the constraints of forage
+availability and minimum viable populations for species
+where this is a concern (i.e., bison and wapiti) (Fig. 1).
+Although the linear programming framework is determi-
+nistic, it can be used to solve complex resource allocation
+problems such as allocating a limited forage supply to a
+guild of ungulate species. We used the Microsoft Excel©
+linear programming “Add-In” (i.e., Microsoft Excel Solver
+©). The objective function dictated how the ungulate guild
+(i.e., bison, moose, wapiti, deer) could be optimized to
+achieve 1) maximum number of individuals (animals/ha) and
+2) maximum biomass (kg/ha) under the constraints of forage
+availability and minimum viable populations for species
+where this is a concern (i.e., bison and wapiti) (Fig. 1).
+Although the linear programming framework is determi-
+nistic, it can be used to solve complex resource allocation
+problems such as allocating a limited forage supply to a
+guild of ungulate species. We used the Microsoft Excel©
+linear programming “Add-In” (i.e., Microsoft Excel Solver
+©). The objective function dictated how the ungulate guild
+(i.e., bison, moose, wapiti, deer) could be optimized to
+achieve 1) maximum number of individuals (animals/ha) and
+2) maximum biomass (kg/ha) under the constraints of forage
+availability and minimum viable populations for species
+where this is a concern (i.e., bison and wapiti) (Fig. 1).
+bears (Ursus arctos), and black bears (Ursus americanus)
+occupied the area, but today coyotes (Canis latrans) and
+lynx (Lynx canadensis) are the largest predators, with cou-
+gars (Felis concolor) [56] and black bears occasionally re-
+corded. Beaver (Castor canadensis) are abundant and influ-
+ence water levels and plant succession adjacent to wetlands
+[57].
+bears (Ursus arctos), and black bears (Ursus americanus)
+occupied the area, but today coyotes (Canis latrans) and
+lynx (Lynx canadensis) are the largest predators, with cou-
+gars (Felis concolor) [56] and black bears occasionally re-
+corded. Beaver (Castor canadensis) are abundant and influ-
+ence water levels and plant succession adjacent to wetlands
+[57].
+bears (Ursus arctos), and black bears (Ursus americanus)
+occupied the area, but today coyotes (Canis latrans) and
+lynx (Lynx canadensis) are the largest predators, with cou-
+gars (Felis concolor) [56] and black bears occasionally re-
+corded. Beaver (Castor canadensis) are abundant and influ-
+ence water levels and plant succession adjacent to wetlands
+[57].
+bears (Ursus arctos), and black bears (Ursus americanus)
+occupied the area, but today coyotes (Canis latrans) and
+lynx (Lynx canadensis) are the largest predators, with cou-
+gars (Felis concolor) [56] and black bears occasionally re-
+corded. Beaver (Castor canadensis) are abundant and influ-
+ence water levels and plant succession adjacent to wetlands
+[57].
+Table 1. Estimate of Forage Production (kg/ha) Within Each of Four Primary Habitats in Elk Island National Park, Alberta
+Table 1. Estimate of Forage Production (kg/ha) Within Each of Four Primary Habitats in Elk Island National Park, Alberta
+Table 1. Estimate of Forage Production (kg/ha) Within Each of Four Primary Habitats in Elk Island National Park, Alberta
+The two main assumptions in linear programming are (1)
+the objective function (Z) is a linear function, f, of the deci-
+sion variables, x,, x2, x3 and x4, and is of the form Z = f(x,
+X2, X3, X4) and (2) all variables (e.g., densities) are non-
+negative or more formally, all x1,x2,x3,x420.
+The two main assumptions in linear programming are (1)
+the objective function (Z) is a linear function, f, of the deci-
+sion variables, x,, x2, x3 and x4, and is of the form Z = f(x,
+X2, X3, X4) and (2) all variables (e.g., densities) are non-
+negative or more formally, all x1,x2,x3,x420.
+The two main assumptions in linear programming are (1)
+the objective function (Z) is a linear function, f, of the deci-
+sion variables, x,, x2, x3 and x4, and is of the form Z = f(x,
+X2, X3, X4) and (2) all variables (e.g., densities) are non-
+negative or more formally, all x1,x2,x3,x420.
+The two main assumptions in linear programming are (1)
+the objective function (Z) is a linear function, f, of the deci-
+sion variables, x,, x2, x3 and x4, and is of the form Z = f(x,
+X2, X3, X4) and (2) all variables (e.g., densities) are non-
+negative or more formally, all x1,x2,x3,x420.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+In addition, genetic constraints were added to ensure
+minimum viable populations for bison (x;) and wapiti (x3)
+where:
+In addition, genetic constraints were added to ensure
+minimum viable populations for bison (x;) and wapiti (x3)
+where:
+In addition, genetic constraints were added to ensure
+minimum viable populations for bison (x;) and wapiti (x3)
+where:
+In addition, genetic constraints were added to ensure
+minimum viable populations for bison (x;) and wapiti (x3)
+where:
+Thus, for maximum number of individuals (animals/ha):
+Thus, for maximum number of individuals (animals/ha):
+Thus, for maximum number of individuals (animals/ha):
+Thus, for maximum number of individuals (animals/ha):
+c= biomass/bison, c= biomass/moose, c3= biomass/wapiti,
+C4= biomass/deer
+c= biomass/bison, c= biomass/moose, c3= biomass/wapiti,
+C4= biomass/deer
+c= biomass/bison, c= biomass/moose, c3= biomass/wapiti,
+C4= biomass/deer
+c= biomass/bison, c= biomass/moose, c3= biomass/wapiti,
+C4= biomass/deer
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+x,= bison density, x. = moose density, x3 = wapiti density, x4
+= deer density.
+For maximum biomass (kg/ha):
+For maximum biomass (kg/ha):
+For maximum biomass (kg/ha):
+For maximum biomass (kg/ha):
+Z = CyXj+ CoX2t C3X3 + CyX4,
+Z = CyXj+ CoX2t C3X3 + CyX4,
+Z = CyXj+ CoX2t C3X3 + CyX4,
+
